@@ -1,3 +1,3 @@
-fb landing page html+css
+html+css
 
 https://sahilsajan.github.io/FBLandingPage/
